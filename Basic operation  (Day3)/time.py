@@ -1,3 +1,6 @@
+
+# Calculate the time into  Hour, minute and second 
+
 seconds = int(input("Time in Second:"))
 
 hours = 0
