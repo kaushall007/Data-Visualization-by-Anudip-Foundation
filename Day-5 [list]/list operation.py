@@ -1,21 +1,21 @@
-#Insert
-'''my_list = ["Ram",10,"Shyam",11]
+#Insert an Element
+my_list = ["Ram",10,"Shyam",11]
 my_list.insert(4,"Megha") # insert(index,element)
 print(my_list)
-'''
 
-#Append
-'''
+
+#Append an element
+
 my_list = ["Ram",10,"Shyam",11,"Megha"]
 my_list.append(12)
 print(my_list)
-'''
-#Extend
-'''
+
+#Extend method for insert multiple element in a list
+
 my_list = ["Ram",10,"Shyam",11,"Megha",12]
 my_list.extend(["Mohit",12,"Rohan",11])
 print(my_list)
-'''
+
 
 #find a method to insert all the element of another sequence datatype at particular index in the list,but all the element must be inserted one by one
 
